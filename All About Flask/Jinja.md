@@ -1,2 +1,0 @@
-## What is Jinja?
-Jinja is a dependency for Flask that helps to render html templates in our web application. Templates make serving html easier by making them separate files that we can pas values into and modify. Without templates, we would have to serve html to Flask by writing it all out manually in a string.
