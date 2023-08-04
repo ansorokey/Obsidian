@@ -11,7 +11,6 @@ Remember that a class is the blueprint for creating an object - representing the
 
 class Cat {
 	static id = 0;
-	
 	constructor(name, furColor, furLength) {
 	this.catId = Cat.id++;
 		this.name = name;
