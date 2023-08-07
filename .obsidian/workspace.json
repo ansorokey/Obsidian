@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All About SQLite3/0. Sqlite3 and Python.md",
+                "file": "All About Flask/6. Blueprints.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All About Flask/7. Forms.md",
+                "file": "All About Flask/8. Forms.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b09da884956e9b0",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All About SQLite3/0. Sqlite3 and Python.md",
+                "file": "All About Flask/6. Blueprints.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All About SQLite3/0. Sqlite3 and Python.md",
+                "file": "All About Flask/6. Blueprints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All About SQLite3/0. Sqlite3 and Python.md"
+                "file": "All About Flask/6. Blueprints.md"
               }
             }
           }
@@ -146,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,12 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd020d29646e5b22",
+  "active": "c9fef510e86eea96",
   "lastOpenFiles": [
-    "All About Flask/7. Forms.md",
-    "All About SQLite3/0. Sqlite3 and Python.md",
     "All About Flask/5. Routing.md",
-    "All About Flask/6. Jinja And Rendering.md",
+    "All About Flask/8. Forms.md",
+    "All About Flask/6. Blueprints.md",
+    "All About Flask/7. Jinja And Rendering.md",
+    "All About SQLite3/0. Sqlite3 and Python.md",
+    "All About SQLite3/5. Sqlite3 and Python.md",
+    "All About SQLite3/3. At A Glance.md",
+    "All About SQLite3/2. Documentation.md",
+    "All About SQLite3/0. With.md",
     "All About Flask/Cross Site Request Forgery.md",
     "All About SQLite3/1. About.md",
     "All About Python/2. Documentation.md",
