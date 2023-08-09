@@ -8,24 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd020d29646e5b22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "All About Flask/6. Blueprints.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "86f49060d5674e1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All About Flask/8. Forms.md",
+                "file": "All About SQLite3/4. The With Block.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9b92768b91dc52b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "786f4c5e0d4d7dd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "All About Flask/2. Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "action",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "5b09da884956e9b0",
@@ -98,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All About Flask/6. Blueprints.md",
+                "file": "All About Flask/2. Documentation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All About Flask/6. Blueprints.md",
+                "file": "All About Flask/2. Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All About Flask/6. Blueprints.md"
+                "file": "All About Flask/2. Documentation.md"
               }
             }
           }
@@ -147,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,17 +164,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9fef510e86eea96",
+  "active": "786f4c5e0d4d7dd8",
   "lastOpenFiles": [
-    "All About Flask/5. Routing.md",
+    "All About SQLAlchemy/2. Documentation.md",
+    "All About SQLAlchemy/4. Setting up.md",
+    "All About SQLAlchemy/3. At A Glance.md",
     "All About Flask/8. Forms.md",
-    "All About Flask/6. Blueprints.md",
-    "All About Flask/7. Jinja And Rendering.md",
-    "All About SQLite3/0. Sqlite3 and Python.md",
+    "All About Python/4. Data Types.md",
+    "All About Python/3. At A Glance.md",
+    "All About Flask/4. Setting Up.md",
+    "All About Flask/5. Routing.md",
+    "All About SQLite3/4. The With Block.md",
     "All About SQLite3/5. Sqlite3 and Python.md",
+    "All About SQLite3/0. Sqlite3 and Python.md",
+    "All About Flask/6. Blueprints.md",
+    "All About SQLAlchemy/Object Relational Mapper.md",
+    "All About SQLAlchemy/1. About.md",
+    "All About SQLAlchemy",
+    "All About Flask/7. Jinja And Rendering.md",
     "All About SQLite3/3. At A Glance.md",
     "All About SQLite3/2. Documentation.md",
-    "All About SQLite3/0. With.md",
     "All About Flask/Cross Site Request Forgery.md",
     "All About SQLite3/1. About.md",
     "All About Python/2. Documentation.md",
@@ -179,9 +192,7 @@
     "All About Flask/1. About.md",
     "All About Flask/6. Jinja And Serving.md",
     "Untitled.md",
-    "All About Flask/4. Setting Up.md",
     "All About DSAA/1. About.md",
-    "All About DSAA",
-    "All About Flask/3. At A Glance.md"
+    "All About DSAA"
   ]
 }
