@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "bbb85e5daa108b8f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "86f49060d5674e1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "All About SQLite3/4. The With Block.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "9b92768b91dc52b2",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All About Flask/2. Documentation.md",
+                "file": "All About SQLAlchemy/6. Add to database.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All About Flask/2. Documentation.md",
+                "file": "All About SQLAlchemy/6. Add to database.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All About Flask/2. Documentation.md",
+                "file": "All About SQLAlchemy/6. Add to database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All About Flask/2. Documentation.md"
+                "file": "All About SQLAlchemy/6. Add to database.md"
               }
             }
           }
@@ -166,16 +148,20 @@
   },
   "active": "786f4c5e0d4d7dd8",
   "lastOpenFiles": [
-    "All About SQLAlchemy/2. Documentation.md",
     "All About SQLAlchemy/4. Setting up.md",
+    "All About SQLAlchemy/6. Add to database.md",
+    "All About SQLAlchemy/5. Mapping Classes.md",
+    "All About Flask/3. At A Glance.md",
+    "All About SQLite3/4. The With Block.md",
+    "All About SQLite3/5. Sqlite3 and Python.md",
+    "All About Flask/2. Documentation.md",
+    "All About SQLAlchemy/2. Documentation.md",
     "All About SQLAlchemy/3. At A Glance.md",
     "All About Flask/8. Forms.md",
     "All About Python/4. Data Types.md",
     "All About Python/3. At A Glance.md",
     "All About Flask/4. Setting Up.md",
     "All About Flask/5. Routing.md",
-    "All About SQLite3/4. The With Block.md",
-    "All About SQLite3/5. Sqlite3 and Python.md",
     "All About SQLite3/0. Sqlite3 and Python.md",
     "All About Flask/6. Blueprints.md",
     "All About SQLAlchemy/Object Relational Mapper.md",
@@ -188,11 +174,7 @@
     "All About SQLite3/1. About.md",
     "All About Python/2. Documentation.md",
     "All About Python/1. About.md",
-    "All About Flask/2. Documentation.md",
     "All About Flask/1. About.md",
-    "All About Flask/6. Jinja And Serving.md",
-    "Untitled.md",
-    "All About DSAA/1. About.md",
     "All About DSAA"
   ]
 }
