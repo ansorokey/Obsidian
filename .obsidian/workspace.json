@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All About SQLAlchemy/6. Add to database.md",
+                "file": "All About SQLAlchemy/7. Querying Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All About SQLAlchemy/6. Add to database.md",
+                "file": "All About SQLAlchemy/7. Querying Data.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All About SQLAlchemy/6. Add to database.md",
+                "file": "All About SQLAlchemy/7. Querying Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All About SQLAlchemy/6. Add to database.md"
+                "file": "All About SQLAlchemy/7. Querying Data.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,9 +149,10 @@
   },
   "active": "786f4c5e0d4d7dd8",
   "lastOpenFiles": [
-    "All About SQLAlchemy/4. Setting up.md",
-    "All About SQLAlchemy/6. Add to database.md",
     "All About SQLAlchemy/5. Mapping Classes.md",
+    "All About SQLAlchemy/6. Add to database.md",
+    "All About SQLAlchemy/7. Querying Data.md",
+    "All About SQLAlchemy/4. Setting up.md",
     "All About Flask/3. At A Glance.md",
     "All About SQLite3/4. The With Block.md",
     "All About SQLite3/5. Sqlite3 and Python.md",
@@ -174,7 +176,6 @@
     "All About SQLite3/1. About.md",
     "All About Python/2. Documentation.md",
     "All About Python/1. About.md",
-    "All About Flask/1. About.md",
     "All About DSAA"
   ]
 }
