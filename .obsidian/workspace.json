@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All About SQLAlchemy/7. Querying Data.md",
+                "file": "All About SQLAlchemy/5. Mapping Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All About SQLAlchemy/7. Querying Data.md",
+                "file": "All About SQLAlchemy/5. Mapping Classes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All About SQLAlchemy/7. Querying Data.md",
+                "file": "All About SQLAlchemy/5. Mapping Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All About SQLAlchemy/7. Querying Data.md"
+                "file": "All About SQLAlchemy/5. Mapping Classes.md"
               }
             }
           }
@@ -147,11 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "786f4c5e0d4d7dd8",
+  "active": "c9fef510e86eea96",
   "lastOpenFiles": [
+    "All About Flask/7. Jinja And Rendering.md",
+    "All About SQLAlchemy/7. Querying Data.md",
     "All About SQLAlchemy/5. Mapping Classes.md",
     "All About SQLAlchemy/6. Add to database.md",
-    "All About SQLAlchemy/7. Querying Data.md",
     "All About SQLAlchemy/4. Setting up.md",
     "All About Flask/3. At A Glance.md",
     "All About SQLite3/4. The With Block.md",
@@ -169,7 +170,6 @@
     "All About SQLAlchemy/Object Relational Mapper.md",
     "All About SQLAlchemy/1. About.md",
     "All About SQLAlchemy",
-    "All About Flask/7. Jinja And Rendering.md",
     "All About SQLite3/3. At A Glance.md",
     "All About SQLite3/2. Documentation.md",
     "All About Flask/Cross Site Request Forgery.md",
