@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All About SQLAlchemy/5. Mapping Classes.md",
+                "file": "All About Linux/2. Common Linux Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "action",
+                "query": "tag:#The",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All About SQLAlchemy/5. Mapping Classes.md",
+                "file": "All About Linux/2. Common Linux Commands.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All About SQLAlchemy/5. Mapping Classes.md",
+                "file": "All About Linux/2. Common Linux Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All About SQLAlchemy/5. Mapping Classes.md"
+                "file": "All About Linux/2. Common Linux Commands.md"
               }
             }
           }
@@ -147,11 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9fef510e86eea96",
+  "active": "786f4c5e0d4d7dd8",
   "lastOpenFiles": [
-    "All About Flask/7. Jinja And Rendering.md",
+    "All About Linux/1. About.md",
+    "All About Linux/2. Common Linux Commands.md",
+    "All About Docker/1. About.md",
+    "All About Linux",
+    "All About Docker/3. Virtual Machines and Containers.md",
+    "All About Docker/2. Documentation.md",
     "All About SQLAlchemy/7. Querying Data.md",
+    "All About Docker",
+    "All About Flask/0. Brain Dump.md",
+    "All About Flask/8. Forms.md",
+    "All About Flask/5. Routing.md",
     "All About SQLAlchemy/5. Mapping Classes.md",
+    "All About Flask/7. Jinja And Rendering.md",
     "All About SQLAlchemy/6. Add to database.md",
     "All About SQLAlchemy/4. Setting up.md",
     "All About Flask/3. At A Glance.md",
@@ -160,22 +170,14 @@
     "All About Flask/2. Documentation.md",
     "All About SQLAlchemy/2. Documentation.md",
     "All About SQLAlchemy/3. At A Glance.md",
-    "All About Flask/8. Forms.md",
     "All About Python/4. Data Types.md",
     "All About Python/3. At A Glance.md",
     "All About Flask/4. Setting Up.md",
-    "All About Flask/5. Routing.md",
     "All About SQLite3/0. Sqlite3 and Python.md",
     "All About Flask/6. Blueprints.md",
     "All About SQLAlchemy/Object Relational Mapper.md",
     "All About SQLAlchemy/1. About.md",
     "All About SQLAlchemy",
-    "All About SQLite3/3. At A Glance.md",
-    "All About SQLite3/2. Documentation.md",
-    "All About Flask/Cross Site Request Forgery.md",
-    "All About SQLite3/1. About.md",
-    "All About Python/2. Documentation.md",
-    "All About Python/1. About.md",
     "All About DSAA"
   ]
 }
