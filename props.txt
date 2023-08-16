@@ -1,0 +1,4 @@
+The data in SQL databases are store in *tables*. A table is essentially a spreadsheet that tracks the properties of items through columns and rows.
+For example, if we wanted to store information about a person and their pets, we could create two seperate tables to track this information. One for the owner, and one for the pets owned - each with their own properties.
+The properties in a table must be a certain data type determined upon creation. This tells the table how much memory to allocate for any new pieces of information. SQL data types include:
+Standard convention is to capitalize all SQL commands, while leaving the names of tables and properties in lowercase. 

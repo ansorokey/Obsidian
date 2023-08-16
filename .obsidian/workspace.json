@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All About Linux/2. Common Linux Commands.md",
+                "file": "All About Docker/4. Using Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All About Linux/2. Common Linux Commands.md",
+                "file": "All About Docker/4. Using Docker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All About Linux/2. Common Linux Commands.md",
+                "file": "All About Docker/4. Using Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All About Linux/2. Common Linux Commands.md"
+                "file": "All About Docker/4. Using Docker.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "786f4c5e0d4d7dd8",
   "lastOpenFiles": [
-    "All About Linux/1. About.md",
     "All About Linux/2. Common Linux Commands.md",
+    "All About Docker/4. Using Docker.md",
+    "props.txt",
+    "All About Linux/1. About.md",
     "All About Docker/1. About.md",
     "All About Linux",
     "All About Docker/3. Virtual Machines and Containers.md",
@@ -176,7 +178,6 @@
     "All About SQLite3/0. Sqlite3 and Python.md",
     "All About Flask/6. Blueprints.md",
     "All About SQLAlchemy/Object Relational Mapper.md",
-    "All About SQLAlchemy/1. About.md",
     "All About SQLAlchemy",
     "All About DSAA"
   ]
